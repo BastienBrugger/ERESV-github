@@ -1,8 +1,8 @@
 # ERES V Github workshop
 
 **Conveners:**
-Ishan Mishra
-Ryan Peterson
+Ishan Mishra,
+Ryan Peterson,
 Bastien Brugger
 
 ## Description
