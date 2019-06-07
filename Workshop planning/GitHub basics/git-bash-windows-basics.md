@@ -1,3 +1,6 @@
+
+Content borrowed from : **Command Line Essentials: Git Bash on Windows (Udemy)**
+
 Why command line?
 - Lots of command line centric tools (git, etc.). More powerful control than their GUI versions
 - Standard syntax across platforms
@@ -37,6 +40,11 @@ File Handling:
 - `mv <old-file-name> <new-file-name>` to rename a file; technically moving the old file's content to a new file
 - `rm <file-name>` to remove the file
 
+Create and delete folders:
+- `mkdir <folder-name>` to make a new folder
+- `mkdir -p <level-1-folder>/<level-2-folder>/<level-3-folder>`: use `-p` to create multi-level folders at once
+- `rmdir <folder-name>` to remove a folder
+- `rmdir` will fail if the folder is not empty; solution is to force it to work with `rm -r -f`, where `-r` stands for recursive and `-f` stands for force. 
 
 
 
