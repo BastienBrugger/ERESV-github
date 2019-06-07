@@ -12,5 +12,33 @@ What is Shell?
 - More expressive than Windows command shell
 - Git Bash is a nice Bash shell environment in Windows; free and open source; comes installed with git
 
+Basic commands:
+- `pwd`: present working directory
+- `ls`: list files and folders
+- `ls -l`: list of files and folders with more details like read/write persmissions, etc.
+- `cd`: change directory (press Tab for auto-completion)
+- `cd ..`: backup one directory level
+- `cd My\ Documents/`: backslash `\` used to denote the `space` character in file or folder names
+- `cd ~`: return to user's home directory; also typing just `cd` works 
+
+Locating commands: `which ls` allows to figure out the location of a command, if its installed. 
+
+Echo:
+- prints on the screen
+- `echo "Hello World"` will print `Helo world`
+- `echo $PATH` will print the value of the system variable `PATH`; $ indicated variable
+
+Reviewing file content:
+- `cat <file-name>` directly outputs the content of the file on to the terminal
+- `less <file-name>` avoids the file content filling up the entire display; scroll up and down; exit with `q`
+
+File Handling:
+- `touch <file-name>` to create a file
+- `mv <old-file-name> <new-file-name>` to rename a file; technically moving the old file's content to a new file
+- `rm <file-name>` to remove the file
+
+
+
+
 
 
