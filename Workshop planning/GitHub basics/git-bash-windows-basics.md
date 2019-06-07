@@ -80,6 +80,7 @@ Customizing the Bash environment using the .bashrc file:
 - A simple example is establishing an alias for an existing commands. This is usually used to shorten the length of long commands. 
   - `alias npp='notepad++'`: this means that `npp` is now equivalent to the command `notepad++`
 - Before using the alias we need to reload the .bashrc file using `source .bashrc`
+- Now `npp` should open notepad++
 
 
    
