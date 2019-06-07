@@ -1,6 +1,5 @@
-*'In my experience with teaching Github, the syntax is pretty easy to pick up but the terminology and work flow is the most confusing.'* - Natasha Batalha
 
-### List of resources:
+### Getting started:
 
 1. Git Started with Github (Udemy): https://www.udemy.com/git-started-with-github/
 2. Official Github guide: https://guides.github.com/activities/hello-world/ 
