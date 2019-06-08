@@ -7,5 +7,6 @@
 4. https://rogerdudler.github.io/git-guide/
 5. http://marklodato.github.io/visual-git-guide/index-en.html
 6. https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
+7. https://try.github.io/
 
 
