@@ -2,7 +2,10 @@
 
 ### Pre-requisite for the workshop:
 
-1. Read basic markdown guide (https://guides.github.com/features/mastering-markdown/)
+1. Read basic markdown guide 
+  - (https://guides.github.com/features/mastering-markdown/)
+  - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  - Practice on an online Markdown editor (https://dillinger.io/). Jupyter notebooks have markdown cells as well. 
 2. Read primer on HTML and CSS styling. 
 
 Content borrowed from https://pages.github.com/
