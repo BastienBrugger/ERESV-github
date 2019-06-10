@@ -38,6 +38,7 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 ### Part 3: best practices for code accessibility and documentation
 
+* Use and [properly format](https://chris.beams.io/posts/git-commit/) Git commit messages
 * [Beginner's Guide to Documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 * [Documentation in Python](https://realpython.com/documenting-python-code/)
   * [Style guide for Python Code](https://www.python.org/dev/peps/pep-0008/) (PEP 8)
