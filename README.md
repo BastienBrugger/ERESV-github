@@ -40,7 +40,7 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 ### Part 4: website with GitHub Pages
 
-## Recommended pre-workshop readings:
+#### Recommended pre-workshop readings:
 
 1. Read basic markdown guide 
   - (https://guides.github.com/features/mastering-markdown/)
