@@ -40,6 +40,8 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 * [Beginner's Guide to Documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
 * [Documentation in Python](https://realpython.com/documenting-python-code/)
+* [Style guide for Python Code](https://www.python.org/dev/peps/pep-0008/) (PEP 8)
+* [Python Docstring Convention](https://www.python.org/dev/peps/pep-0257/) (PEP 257)
 * [Google's Open-Source Style Guide](https://github.com/google/styleguide)
 * [Packaging your Python Project](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/) - setup your python scripts as a python package and upload it to PyPi
 
