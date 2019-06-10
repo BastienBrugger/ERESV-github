@@ -5,7 +5,7 @@
 - to get up and running quickly
 - to have version control on your website, preferably Git
 - to be able to share my code so others can easily re-use it
-- option of personal website or websites for individual projects
+- option of personal website or websites for individual projects; multiple websites can be created with a single account. 
 
 ## Two kind of websites
 
