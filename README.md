@@ -14,11 +14,30 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 | **9:00 - 10:15** | **First part** |
 |:----------------:|:---------------|
 | 15 min | Motivation for this workshop |
-| 30 min | How does GitHub work: creating your account & first repo (no coding) |
-| 30 min | Actual test project: clone repo, create new branch, edit files, pull request, merge (Python?) |
+| 30 min | How do Git & GitHub work: creating your account & first repo |
+| 30 min | Actual test project: fork repo, create new branch, edit files, pull request, merge |
 | _10:15 - 10:45_ | _Break_ |
 | **10:45 - 12:00** | **Second part** |
 | 15 min | Best practices for code accessibility and documentation |
 | 30 min | Creating your website with GitHub Pages |
 | 15 min | Other resources (GitHub package for text editors, open-source license, ReadTheDocs...) |
 | 15 min | Discussion |
+
+## Material
+
+### Part 1: motivation and functioning ([PDF](https://github.com/BastienBrugger/ERESV-github))
+
+* [Merali (2010)](https://www.nature.com/news/2010/101013/full/467775a.html) *Error… why scientific programming does not compute*
+* [GitHub Glossary](https://help.github.com/en/articles/github-glossary)
+* Guide to [GitHub Flow](https://guides.github.com/introduction/flow/)
+* Guide to [Create your first repo](https://guides.github.com/activities/hello-world/)
+* List of [GUI clients](https://git-scm.com/downloads/guis/) options
+* Installing Git as command line for [Linux](https://git-scm.com/download/linux), [MacOS](https://git-scm.com/download/mac) and [Windows](https://git-scm.com/download/win)
+
+### Part 2: test project
+
+### Part 3: best practices for code accessibility and documentation
+
+### Part 4: website with GitHub Pages
+
+### Part 5: Other resources
