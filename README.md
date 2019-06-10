@@ -25,7 +25,7 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 ## Material
 
-### Part 1: motivation and functioning ([PDF](https://github.com/BastienBrugger/ERESV-github))
+### Part 1: motivation and functioning ([PDF](https://github.com/BastienBrugger/ERESV-github/blob/master/PDF-part1.pdf))
 
 * [Merali (2010)](https://www.nature.com/news/2010/101013/full/467775a.html) *Error… why scientific programming does not compute*
 * [GitHub Glossary](https://help.github.com/en/articles/github-glossary)
@@ -40,4 +40,4 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 ### Part 4: website with GitHub Pages
 
-### Part 5: Other resources
+### Part 5: other resources
