@@ -38,6 +38,10 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 ### Part 3: best practices for code accessibility and documentation
 
+* [Beginner's Guide to Documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+* [Documentation in Python](https://realpython.com/documenting-python-code/)
+* [Google's Open-Source Style Guide](https://github.com/google/styleguide)
+
 ### Part 4: website with GitHub Pages
 
 #### Recommended pre-workshop readings:
