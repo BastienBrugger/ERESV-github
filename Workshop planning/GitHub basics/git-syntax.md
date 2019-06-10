@@ -1,4 +1,4 @@
-###Git Syntax Reference
+### Git Syntax Reference
 
 1. `git config`
 - `--user.name "<first> <last>"`
@@ -19,9 +19,12 @@
 5. Workflow
 - `git add <file>` when creating a new file in the working directory, it must be "staged" with this command before it it "commited"
 - `git commit` saves all changes since your last commit
--- `-a` stage all files that have been modified or deleted (without touching new files that haven't been added)
--- `-m "<commit description>"` add a short message about the commit
-- `git push origin master` push all commits save locally to the remote repository
+  - `-a` stage all files that have been modified or deleted (without touching new files that haven't been added)
+  - `-m "<commit description>"` add a short message about the commit
+- `git push origin master` "push" all commits save locally to the remote repository
+- `git pull` "pull" all changes in the remote repository (combines the `fetch` and `merge` routines)
+  - `git fetch` download everything from the remote repository, but don't change any of the local files
+  - `git merge origin`
 
 6. Branching
 - `git checkout -b <branch_name>` create a new branch that is a copy of the `master` branch
