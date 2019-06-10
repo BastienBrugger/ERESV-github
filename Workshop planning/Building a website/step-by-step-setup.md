@@ -7,6 +7,8 @@
   - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   - Practice on an online Markdown editor (https://dillinger.io/). Jupyter notebooks have markdown cells as well. 
 2. Read primer on HTML and CSS styling. 
+  - HTML: https://www.w3schools.com/html/html_basic.asp
+  - CSS: https://www.w3schools.com/html/html_css.asp
 
 Content borrowed from https://pages.github.com/
 
