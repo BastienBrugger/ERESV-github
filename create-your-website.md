@@ -36,11 +36,24 @@
   - Under `Source`, select `master`
   - Under `Theme Chooser`, select `Dinky`
   
-4. You will see a _config.yml file created in your repository. This file contains any configuration variables specific to your Jekyll theme. To learn more about the configuration options available for Dinky, check out its very own GitHub repository: https://github.com/pages-themes/dinky
+4. You will see a *_config.yml* file created in your repository. This file contains any configuration variables specific to your Jekyll theme. To learn more about the configuration options available for Dinky, check out its very own GitHub repository: https://github.com/pages-themes/dinky
   - Try changing the title and description of your website!
 
 5. Now go to `https://<your-username>.github.io`. You have created your very first page!
 
 6. You can then use simple markdown files as webpages (much easier than using HTML). Check out [this](https://github.com/ishan-mishra/sample-website-2) simple example. 
+
+7. You can customize the CSS and HTML files in your Jekyll theme. Read more about at https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme
+
+## Creating a website from scratch using HTML and CSS
+
+If you prefer to have more/complete control over the website, its really not that hard! I will demostrate this with a [simple example](https://ishan-mishra.github.io/sample-website-1/) that I created.
+
+## Using Jekyll to create a template of your own
+
+Instead of repeating the same navigation markup on every page I create, which I'd have to edit on every page if I add, remove, or change the location of navigation item, I can create what Jekyll calls a layout that gets used on all my pages. For a detailed tutorial look at [Jonathan McGlone's excellent guide](http://jmcglone.com/guides/github-pages/) and the [associated repository](https://github.com/hankquinlan/hankquinlan.github.io)
+
+
+
 
 
