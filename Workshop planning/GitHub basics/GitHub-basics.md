@@ -52,4 +52,6 @@ Git was originally designed for command line; new features make it to command li
   - `ls -al` tells command line to see the .git folder
   - `cd .git` to check out all the components of the git folder
   - `git status` will tell us that we are on the master branch
+  - `git remote add origin "https://github.com/<username>/<project_name>.git"`
+  - `git push origin master`
 
