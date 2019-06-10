@@ -14,7 +14,7 @@
 
 ## Two options for designing/managing the website
 
-1. Use markdown for template and Jekyll theme for styling.
+1. Use markdown for content and Jekyll theme for styling.
 2. Do everything from scratch using HTML (for content) and CSS (for styling) files. You have complete control over the design and there are many super cool design codes available for free online (more on this later!)
 
 ## Why use Jekyll?
