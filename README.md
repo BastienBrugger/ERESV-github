@@ -2,7 +2,7 @@
 
 **Conveners:**
 Ishan Mishra,
-Ryan Peterson,
+Ryan Petersburg,
 Bastien Brugger
 
 ## Description
