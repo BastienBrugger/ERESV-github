@@ -41,7 +41,7 @@
 
 5. Now go to `https://<your-username>.github.io`. You have created your very first page!
 
-6. You can then use simple markdown files as webpages (much easier than using HTML). Check out [this](https://github.com/ishan-mishra/sample-website-2) simple example. 
+6. You can then use simple markdown files as webpages (much easier than using HTML). Check out [this](https://github.com/ishan-mishra/sample-website-2) simple example. <Add Natasha and Rodrigo's example>
 
 7. You can customize the CSS and HTML files in your Jekyll theme. Read more about at https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme
 
