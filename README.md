@@ -56,3 +56,5 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
   - CSS: https://www.w3schools.com/html/html_css.asp
 
 ### Part 5: other resources
+
+* [Oh, shit, git!](http://ohshitgit.com) Where to go if a problem occurs
