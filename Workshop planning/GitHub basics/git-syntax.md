@@ -1,8 +1,8 @@
 ### Git Syntax Reference
 
 1. `git config`
-  - `--user.name "<first> <last>"`
-  - `--user.email "<email address>"`
+  - `--global user.name "<first> <last>"`
+  - `--global user.email "<email address>"`
 
 2. `git clone https://github.com/<username>/<project_name>.git`
   - "Download" the Github repository to the current directory
