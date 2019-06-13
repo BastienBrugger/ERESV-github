@@ -36,6 +36,9 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 ### Part 2: test project
 
+* Presentation
+* Follow along through a [markdown file](git-test-project.md)
+
 ### Part 3: best practices for code accessibility and documentation
 
 * Use and [properly format](https://chris.beams.io/posts/git-commit/) Git commit messages
