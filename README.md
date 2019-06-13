@@ -34,7 +34,7 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 * List of [GUI clients](https://git-scm.com/downloads/guis/) options
 * Installing Git as command line for [Linux](https://git-scm.com/download/linux), [MacOS](https://git-scm.com/download/mac) and [Windows](https://git-scm.com/download/win)
 
-### Part 2: test project [PDF](Part_2.pdf)
+### Part 2: test project [(PDF)](Part_2.pdf)
 
 * Project [step-by-step](git-test-project.md)
 
