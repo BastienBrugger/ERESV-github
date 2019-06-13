@@ -22,7 +22,7 @@
     - `-a` stage all files that have been modified or deleted (without touching new files that haven't been added)
     - `-m "<commit description>"` add a short message about the commit
   - `git push origin master` "push" all commits save locally to the remote repository
-  - `git pull` "pull" all changes in the remote repository (combines the `fetch` and `merge` routines)
+  - `git pull origin master` "pull" all changes in the remote repository (combines the `fetch` and `merge` routines)
     - `git fetch` download everything from the remote repository, but don't change any of the local files
     - `git merge origin`
 
