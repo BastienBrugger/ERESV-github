@@ -11,21 +11,21 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 ## Agenda
 
-| **9:00 - 10:15** | **First part** |
+| **9:00 - 10:15** | **Topic**|
 |:----------------:|:---------------|
-| 15 min | Motivation for this workshop |
-| 30 min | How do Git & GitHub work: creating your account & first repo |
-| 30 min | Actual test project: fork repo, create new branch, edit files, pull request, merge |
+| 15 min | 1. Motivation for this workshop |
+| 30 min | 2. How do Git & GitHub work: creating your account & first repo |
+| 30 min | 3. Actual test project: fork repo, create new branch, edit files, pull request, merge |
 | _10:15 - 10:45_ | _Break_ |
-| **10:45 - 12:00** | **Second part** |
-| 15 min | Best practices for code accessibility and documentation |
-| 30 min | Creating your website with GitHub Pages |
-| 15 min | Other resources (GitHub package for text editors, open-source license, ReadTheDocs...) |
+| **10:45 - 12:00** | **Topic** |
+| 15 min | 4. Best practices for code accessibility and documentation |
+| 30 min | 5. Creating your website with GitHub Pages |
+| 15 min | 6. Other resources (GitHub package for text editors, open-source license, ReadTheDocs...) |
 | 15 min | Discussion |
 
 ## Material
 
-### Part 1: motivation and functioning ([PDF](https://github.com/BastienBrugger/ERESV-github/blob/master/Part_1.pdf))
+### Part 1 & 2: motivation and functioning ([PDF](https://github.com/BastienBrugger/ERESV-github/blob/master/Part_1.pdf))
 
 * [Merali (2010)](https://www.nature.com/news/2010/101013/full/467775a.html) *Error… why scientific programming does not compute*
 * [GitHub Glossary](https://help.github.com/en/articles/github-glossary)
@@ -34,11 +34,11 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 * List of [GUI clients](https://git-scm.com/downloads/guis/) options
 * Installing Git as command line for [Linux](https://git-scm.com/download/linux), [MacOS](https://git-scm.com/download/mac) and [Windows](https://git-scm.com/download/win)
 
-### Part 2: test project ([PDF](Part_2.pdf))
+### Part 3: test project ([PDF](Part_2.pdf))
 
 * Project [step-by-step](git-test-project.md)
 
-### Part 3: best practices for code accessibility and documentation
+### Part 4: best practices for code accessibility and documentation
 
 * Use and [properly format](https://chris.beams.io/posts/git-commit/) Git commit messages
 * Github's [issue tracker](https://guides.github.com/features/issues/)
@@ -49,7 +49,7 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
   * [Packaging your Python Project](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/) - setup your python scripts as a python package and upload it to PyPi
 * [Google's Open-Source Style Guide](https://github.com/google/styleguide)
 
-### Part 4: website with GitHub Pages [(document)](https://github.com/BastienBrugger/ERESV-github/blob/master/create-your-website.md)
+### Part 5: website with GitHub Pages [(document)](https://github.com/BastienBrugger/ERESV-github/blob/master/create-your-website.md)
 
 #### Recommended pre-workshop readings:
 
@@ -62,6 +62,6 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
   - HTML: https://www.w3schools.com/html/html_basic.asp
   - CSS: https://www.w3schools.com/html/html_css.asp
 
-### Part 5: other resources
+### Part 6: other resources
 
 * [Oh, shit, git!](http://ohshitgit.com) Where to go if a problem occurs
