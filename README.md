@@ -51,7 +51,7 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 ### Part 5: website with GitHub Pages [(document)](https://github.com/BastienBrugger/ERESV-github/blob/master/create-your-website.md)
 
-#### Recommended pre-workshop readings:
+#### Markup languages guides:
 
 1. Read basic markdown guide 
   - (https://guides.github.com/features/mastering-markdown/)
