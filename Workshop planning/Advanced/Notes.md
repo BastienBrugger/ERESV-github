@@ -31,4 +31,12 @@
   - Don't write your own license! 
   - Licenses take away liability as well. 
 
-10. 
+10. nbdime: For better view of differences between different versions of a Jupyter notebook.
+
+11. setup-tools: set of functions and conventions that define how packages are built in python
+  - module: a folder that has `__init__.py`; this is how python identifies a python package
+  - create a folder with a name that you want your library to be: `mkdir <package-name>`
+  - create a file called `setup.py`
+    - uses package `setuptools`
+    - version: 0.0.1  (the very first one; usually 1.0.0 is the first stable version)
+    
