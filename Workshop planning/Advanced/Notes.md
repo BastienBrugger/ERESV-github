@@ -9,4 +9,20 @@
   - Choosing an open source license
   - Creating documentation
   - Including a code of conduct
+  
+5. For tests:
+  - use `assert`
+    - `assert np.all(<some-condition>)`
+    - `np.allclose` actually is better as it does not ask for exact match. Useful because floats are always approximate. 
+    
+6. Putting functions into scripts for library makes them easily reusable instead of copy/pasting code again and again. 
+7. For libraries:
+  - docstring: 
+  `
+  '''
+  This are my data analysis functions used to download and process some temperature time series from Berkeley Earth.
+  ''' 
+  `
+  
+8. For gitignore, selecting Python would setup the repository so that the auxiliary python files are not tracked. For example, temporary files that are created by Jupyter notebooks, etc. (official list of .gitignore files https://github.com/github/gitignore)
  
