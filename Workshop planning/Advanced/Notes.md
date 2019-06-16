@@ -24,5 +24,11 @@
   ''' 
   `
   
-8. For gitignore, selecting Python would setup the repository so that the auxiliary python files are not tracked. For example, temporary files that are created by Jupyter notebooks, etc. (official list of .gitignore files https://github.com/github/gitignore)
+8. For gitignore, selecting Python would setup the repository so that the auxiliary python files are not tracked. For example, temporary files that are created by Jupyter notebooks, etc. Jupyter notebooks have their own version of version control file stored in a folder called `.ipynb checkpoints`  (official list of .gitignore files https://github.com/github/gitignore)
  
+9. Choose a license (choosealicense.com) (opensourceinitiative). Python mostly has MIT and BSD license. Can be used by both academics and industry. Completely open source. 
+  - Having no license means its colpletely copyright you and no one else is allowed to use it or adapt it; prevents easy collaboration; others can spot bugs and make the code more usable. *People usually think otherwise and it creates a confusing and potentially tough situation*
+  - Don't write your own license! 
+  - Licenses take away liability as well. 
+
+10. 
