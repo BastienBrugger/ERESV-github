@@ -40,3 +40,13 @@
     - uses package `setuptools`
     - version: 0.0.1  (the very first one; usually 1.0.0 is the first stable version)
     
+12. To install the package: `pip install -e .`
+      - `-e` means editable installation (creates a link to this folder instead of copying the contents as they stand right now to `site-packages` folder; the package stays alive and future edits are automatically incorporated.
+      - `.` indicated current directory
+      
+13. To get documentation associated with a function, do `help(<function-name>)`
+  - To add docstring, put `'''<some useful description of what the function does> ''' ` beneath the `def` statement
+  
+  
+
+
