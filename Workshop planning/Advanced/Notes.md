@@ -46,6 +46,25 @@
       
 13. To get documentation associated with a function, do `help(<function-name>)`
   - To add docstring, put `'''<some useful description of what the function does> ''' ` beneath the `def` statement
+  - Conventional format:
+  ```
+  '''
+  :param param_1: <description>
+  :param param_2: <description>
+  '''
+  ```
+  
+14. It is useful to create a separate module for test functions: `touch ./data_analysis/test_<sometext>.py`
+
+15. running `pytest` in your package's home directory looks for all the files starting with `test_` and runs the test.
+
+16. Continuous Integration services automatically runs tests if there any changes in your repository. 
+  - Travis-CI.org
+  - create a configuration file to tell Travis what to do: `.travis.yml`
+  - tests can be run for different versions of python, different os, etc. Make the code more robust. 
+
+17. Select the repository in your Travis account.
+  
   
   
 
