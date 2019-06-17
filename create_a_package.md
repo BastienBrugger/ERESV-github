@@ -45,15 +45,34 @@ This is a good point to put our code on [GitHub](https://guides.github.com/activ
   - Having no license means its your copyright and no one else is allowed to use it or adapt it, which prevents easy collaboration; others can spot bugs and make the code more usable. *People usually think otherwise and it creates a confusing and potentially tough situation*.
   - Licenses take away liability as well.
   - Don't write your own license!
+
+*Take-away 7*: Create a [contributing code of conduct file.](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/876638335a4d2b5f0ad5d0fcb5458eda06d8842a/CODE_OF_CONDUCT.md) 
+ 
   
   - After initializing the repository, we *clone* the repository to our local machine, *add* the files local files to be tracked, *commit* them and *push* them to the repository. 
   
   ### PAUSE! 
   
   [This is what the repository looks like in the present stage.](https://github.com/opengeophysics/2018-agu-oss-example-repo/tree/fef35145fe2e52cee0033783778eb7674ccb525e) 
+  
+ Next we want to officially make a package from our `.py file` that contains the function
+ - We move our `data_analysis.py` file to a folder called <whatever-name-we-want>. We also add `__init__.py` in the folder, that basically defines the folder as being a package. 
+ - We create a [`setup.py`](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/876638335a4d2b5f0ad5d0fcb5458eda06d8842a/setup.py) file in the home directory for installing our package.  
+ - The `setup.py` files uses a package called `setuptools`, which is a set of functions and conventions that define how packages are built in python
+  
+So, *Take-away 8* is that we need an `__init__.py` to let python know that a folder is a package, and a `setup.py` file in the home directory for installing the package.
+
+*Take-away-9*: Add installation instructions:
+- To install the package: `pip install -e .`
+  - `-e` means editable installation (creates a link to this folder instead of copying the contents as they stand right now to python's root folder; the package stays alive and future edits are automatically incorporated when you import the package.
+  - `.` indicates current directory
+  
+ [This is what the repository looks like in the present stage.](https://github.com/opengeophysics/2018-agu-oss-example-repo/tree/1491609fda07b97f99197440ec8f482adfc2f115)
  
- *Take-away 7*: Make your library installable by using `setuptools`, which is 
- - 
+ 
+ 
+ 
+ 
   
 
 
