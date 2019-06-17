@@ -64,6 +64,10 @@
   - tests can be run for different versions of python, different os, etc. Make the code more robust. 
 
 17. Select the repository in your Travis account.
+
+18. Use ReadTheDocs/Sphinx to generate documentation
+
+19. Add a code of conduct
   
   
   
