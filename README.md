@@ -53,12 +53,12 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 
 #### Markup languages guides:
 
-1. Read basic markdown guide 
+1. Basic markdown guides 
   - (https://guides.github.com/features/mastering-markdown/)
   - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
   - Practice on an online Markdown editor (https://dillinger.io/). Jupyter notebooks have markdown cells as well. 
   - Markdown quick reference cheat sheet: https://en.support.wordpress.com/markdown-quick-reference/
-2. Read primer on HTML and CSS styling. 
+2. Primers on HTML and CSS styling. 
   - HTML: https://www.w3schools.com/html/html_basic.asp
   - CSS: https://www.w3schools.com/html/html_css.asp
 
