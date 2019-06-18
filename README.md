@@ -62,6 +62,8 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
   - HTML: https://www.w3schools.com/html/html_basic.asp
   - CSS: https://www.w3schools.com/html/html_css.asp
 
-### Part 6: other resources
+### Part 6: From a simple python file/notebook to a publishable python package [document](https://github.com/BastienBrugger/ERESV-github/blob/master/create_a_package.md)
 
+
+### Other resources
 * [Oh, shit, git!](http://ohshitgit.com) Where to go if a problem occurs
