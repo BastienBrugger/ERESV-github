@@ -70,6 +70,16 @@ So, *Take-away 8* is that we need an `__init__.py` to let python know that a fol
  [This is what the repository looks like in the present stage.](https://github.com/opengeophysics/2018-agu-oss-example-repo/tree/1491609fda07b97f99197440ec8f482adfc2f115)
  
  
+ *Take-away-10*: Create a separate [test module](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/eacb151a663055915bb8012956bbd3070237391e/data_analysis/test_data_analysis.py)
+ - running `pytest` in your package's home directory looks for all the files starting with `test_` and runs the test. In your local machine run `pytest -v` or `python -m pytest -v`
+ - The testing can be automated by using external services known as Continuous Integration. A popular one is [Travis-CI](https://docs.travis-ci.com/user/languages/python/).
+ - Travis-CI links to your GitHub repository, and runs the set of commands you specify in its [configuration file](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/96a97d7e36a18c5fb7ebe90468da828da3400cfb/.travis.yml) whenever it detects a change. 
+ - Tests can be run for different versions of python, different os, etc. Make the code more robust.
+ 
+
+
+ 
+ 
  
  
  
