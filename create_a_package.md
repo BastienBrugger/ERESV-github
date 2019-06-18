@@ -79,7 +79,9 @@ So, *Take-away 8* is that we need an `__init__.py` to let python know that a fol
  *Take-away-11*: Add documentation using [sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html#quick-start) and format using [ReadTheDocs](https://readthedocs.org/)
  
  - Popular option is Sphinx/ReadTheDocs
- - Sphinx
+ - Sphinx is a python tool used to create beautiful Python documentation. All python language documentation is usually in Sphinx.
+ - [Easy to follow steps]((https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html#quick-start)) to create a basic documentation
+ 
  
  
  
