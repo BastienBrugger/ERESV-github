@@ -50,7 +50,7 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 * [Google's Open-Source Style Guide](https://github.com/google/styleguide)
 
 
-### Part 5: From a simple python file/notebook to a publishable python package [document](https://github.com/BastienBrugger/ERESV-github/blob/master/create_a_package.md)
+### Part 5: From a simple python file/notebook to a publishable python package [(document)](https://github.com/BastienBrugger/ERESV-github/blob/master/create_a_package.md)
 
 ### Part 6: website with GitHub Pages [(document)](https://github.com/BastienBrugger/ERESV-github/blob/master/create-your-website.md)
 
