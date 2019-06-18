@@ -19,8 +19,8 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 | _10:15 - 10:45_ | _Break_ |
 | **10:45 - 12:00** | **Topic** |
 | 15 min | 4. Best practices for code accessibility and documentation |
-| 30 min | 5. Creating your website with GitHub Pages |
-| 15 min | 6. Other resources (GitHub package for text editors, open-source license, ReadTheDocs...) |
+| 30 min | 5. From a simple python script to a publishable package |
+| 15 min | 6. Creating your website with GitHub Pages |
 | 15 min | Discussion |
 
 ## Material
@@ -49,7 +49,10 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
   * [Packaging your Python Project](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/) - setup your python scripts as a python package and upload it to PyPi
 * [Google's Open-Source Style Guide](https://github.com/google/styleguide)
 
-### Part 5: website with GitHub Pages [(document)](https://github.com/BastienBrugger/ERESV-github/blob/master/create-your-website.md)
+
+### Part 5: From a simple python file/notebook to a publishable python package [document](https://github.com/BastienBrugger/ERESV-github/blob/master/create_a_package.md)
+
+### Part 6: website with GitHub Pages [(document)](https://github.com/BastienBrugger/ERESV-github/blob/master/create-your-website.md)
 
 #### Markup languages guides:
 
@@ -61,8 +64,6 @@ Coding makes up a significant part of a researcher’s time, yet scientists are 
 2. Primers on HTML and CSS styling. 
   - HTML: https://www.w3schools.com/html/html_basic.asp
   - CSS: https://www.w3schools.com/html/html_css.asp
-
-### Part 6: From a simple python file/notebook to a publishable python package [document](https://github.com/BastienBrugger/ERESV-github/blob/master/create_a_package.md)
 
 
 ### Other resources
