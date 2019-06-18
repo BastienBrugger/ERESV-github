@@ -76,7 +76,7 @@ So, *Take-away 8* is that we need an `__init__.py` to let python know that a fol
  - Travis-CI links to your GitHub repository, and runs the set of commands you specify in its [configuration file](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/96a97d7e36a18c5fb7ebe90468da828da3400cfb/.travis.yml) whenever it detects a change. 
  - Tests can be run for different versions of python, different os, etc. Make the code more robust.
  
- *Take-away-11*: Add documentation using [sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html#quick-start) and format using [ReadTheDocs](https://readthedocs.org/)
+ *Take-away-11*: Add a documentation folder (`docs/`) using [sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html#quick-start) and host it online using [ReadTheDocs](https://readthedocs.org/)
  
  - Popular option is Sphinx/ReadTheDocs
  - Sphinx is a python tool used to create beautiful Python documentation. All python language documentation is usually in Sphinx.
