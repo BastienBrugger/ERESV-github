@@ -80,7 +80,10 @@ So, *Take-away 8* is that we need an `__init__.py` to let python know that a fol
  
  - Popular option is Sphinx/ReadTheDocs
  - Sphinx is a python tool used to create beautiful Python documentation. All python language documentation is usually in Sphinx.
- - [Easy to follow steps]((https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html#quick-start)) to create a basic documentation
+ - [Easy to follow steps]((https://pythonhosted.org/an_example_pypi_project/sphinx.html)) to create a basic documentation
+ - Add project to ReadTheDocs to build a website from your repository. 
+ 
+ ### Final verison of the repository: https://github.com/ishan-mishra/2019-eres-v-example
  
  
  
