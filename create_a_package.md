@@ -27,7 +27,7 @@ For function tests in python, we commonly use `assert`. General syntax is `asser
 
 *Take-away 3:* Move the functions into a [seperate `.py` file](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/36265bf5af89977c792a9e2d343f035c07f8b3f3/data_analysis.py) or a module. Putting functions into scripts for library makes them easily reusable instead of copy/pasting code again and again.
 
-*Take-away 4:* Put a doc-string at top for the module, and a doc-string for each function. 
+*Take-away 4:* Put a doc-string at top for the module, and a doc-string for each function. A great reference is python's popular and well documented libraries and functions, for example [numpy.mean](https://github.com/numpy/numpy/blob/v1.16.1/numpy/core/fromnumeric.py#L3014-L3118)
 
 ### Part 2: Publishing the functions as a package
 
