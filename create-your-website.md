@@ -39,9 +39,9 @@
 4. You will see a *_config.yml* file created in your repository. This file contains any configuration variables specific to your Jekyll theme. To learn more about the configuration options available for Dinky, check out its very own GitHub repository: https://github.com/pages-themes/dinky
   - Try changing the title and description of your website!
 
-5. Now go to `https://<your-username>.github.io`. You have created your very first page!
+5. [Here's](https://github.com/ishan-mishra/sample-website-2) what your repository should look like. Now go to `https://<your-username>.github.io`. You have created your very first page!
 
-6. You can then use simple Markdown files as webpages (much easier than using HTML). Check out [this simple example](https://ishan-mishra.github.io/).
+6. You can add more simple Markdown files to be used as webpages (much easier than using HTML). Check out [my simple website!](https://ishan-mishra.github.io/).
 
 7. You can customize the CSS and HTML files in your Jekyll theme. Read more about at https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme. 
 
