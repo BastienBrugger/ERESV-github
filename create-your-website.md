@@ -51,6 +51,6 @@ For repeated content like the navigation bar and style related code, which we'd 
 
 ## Creating a website from scratch using HTML and CSS
 
-If you prefer to have more/complete control over the website design, its really not that hard! I will demostrate this with a [simple example](https://ishan-mishra.github.io/sample-website-1/) that I created. You can also check [Natasha Batalha](https://natashabatalha.github.io/)'s and [Rodrigo Luger](https://rodluger.github.io/)'s awesome websites!
+If you prefer to have more/complete control over the website design, its really not that hard! I will demostrate this with a [simple example](https://github.com/ishan-mishra/sample-website-1) that I created. You can also check [Natasha Batalha](https://natashabatalha.github.io/)'s and [Rodrigo Luger](https://rodluger.github.io/)'s awesome websites!
 
 
