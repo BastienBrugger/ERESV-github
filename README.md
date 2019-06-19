@@ -88,6 +88,7 @@ Summary:
 2. Primers on HTML and CSS styling. 
   - HTML: https://www.w3schools.com/html/html_basic.asp
   - CSS: https://www.w3schools.com/html/html_css.asp
+  - [A quick preview](http://wwwcodes.com/css-Tutorial/lab-images/input-css-output.png)
 
 
 ### Other interesting GitHub based resources for your research:
