@@ -41,9 +41,9 @@
 
 5. Now go to `https://<your-username>.github.io`. You have created your very first page!
 
-6. You can then use simple Markdown files as webpages (much easier than using HTML). Check out [this](https://github.com/ishan-mishra/sample-website-2) simple example.
+6. You can then use simple Markdown files as webpages (much easier than using HTML). Check out [this simple example](https://github.com/ishan-mishra/sample-website-2).
 
-7. You can customize the CSS and HTML files in your Jekyll theme. Read more about at https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme
+7. You can customize the CSS and HTML files in your Jekyll theme. Read more about at https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme.
 
 ## Creating a website from scratch using HTML and CSS
 
