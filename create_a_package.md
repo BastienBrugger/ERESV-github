@@ -46,7 +46,7 @@ This is a good point to put our code on [GitHub](https://guides.github.com/activ
   - Licenses take away liability as well.
   - Don't write your own license!
 
-*Take-away 7*: Create a [contributing code of conduct file.](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/876638335a4d2b5f0ad5d0fcb5458eda06d8842a/CODE_OF_CONDUCT.md) 
+*Take-away 7*: Create a [code of conduct file.](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/876638335a4d2b5f0ad5d0fcb5458eda06d8842a/CODE_OF_CONDUCT.md) and a [contributing guide](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/master/CONTRIBUTING.md)
  
   
   - After initializing the repository, we *clone* the repository to our local machine, *add* the files local files to be tracked, *commit* them and *push* them to the repository. 
