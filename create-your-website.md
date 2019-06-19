@@ -15,7 +15,7 @@
 ## Two options for designing/managing the website
 
 1. Use Markdown for content and [Jekyll](https://jekyllrb.com/) theme for styling.
-2. Do everything from scratch using HTML (for content) and CSS (for styling) files. You have complete control over the design and there are many super cool design codes available for free online (check [Start Bootstrap](https://startbootstrap.com/) and [Templated] (https://templated.co/) for designs; [Unsplash](https://unsplash.com/) for free graphics).
+2. Do everything from scratch using HTML (for content) and CSS (for styling) files. You have complete control over the design and there are many super cool design codes available for free online (check [Start Bootstrap](https://startbootstrap.com/) and [Templated](https://templated.co/) for designs; [Unsplash](https://unsplash.com/) for free graphics).
 
 ## Why use Markdown+Jekyll?
 
