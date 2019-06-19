@@ -43,12 +43,14 @@
 
 6. You can then use simple Markdown files as webpages (much easier than using HTML). Check out [this simple example](https://github.com/ishan-mishra/sample-website-2).
 
-7. You can customize the CSS and HTML files in your Jekyll theme. Read more about at https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme. Also look at [this](https://github.com/hankquinlan/hankquinlan.github.io) example and its [step-by-step guide](http://jmcglone.com/guides/github-pages/)
+7. You can customize the CSS and HTML files in your Jekyll theme. Read more about at https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme. 
+
+## Using Jekyll to create a template of your own
+
+For repeated content like the navigation bar and style related code, which we'd have to edit on every page if we add, remove, or change the location of navigation item, we can create what Jekyll calls a layout that gets used on all our pages. For a detailed tutorial look at [Jonathan McGlone's excellent guide](http://jmcglone.com/guides/github-pages/) and the [associated repository](https://github.com/hankquinlan/hankquinlan.github.io).
 
 ## Creating a website from scratch using HTML and CSS
 
 If you prefer to have more/complete control over the website design, its really not that hard! I will demostrate this with a [simple example](https://ishan-mishra.github.io/sample-website-1/) that I created. You can also check [Natasha Batalha](https://natashabatalha.github.io/)'s and [Rodrigo Luger](https://rodluger.github.io/)'s awesome websites!
 
-## Using Jekyll to create a template of your own
 
-Instead of repeating the same navigation markup on every page I create, which I'd have to edit on every page if I add, remove, or change the location of navigation item, I can create what Jekyll calls a layout that gets used on all my pages. For a detailed tutorial look at [Jonathan McGlone's excellent guide](http://jmcglone.com/guides/github-pages/) and the [associated repository](https://github.com/hankquinlan/hankquinlan.github.io).
