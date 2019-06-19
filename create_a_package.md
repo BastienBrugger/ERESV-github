@@ -36,8 +36,8 @@ This is a good point to put our code on [GitHub](https://guides.github.com/activ
 
 *Take-away 6*: Always a good idea to initialize with [a README file](https://github.com/opengeophysics/2018-agu-oss-example-repo/blob/89bc4680339ca98c1800706b1e8cae14dffc29bf/README.md).
 
-  -A brief explanation of what the code does should suffice. 
-  -Later we can add some info about installing and links to documentation, etc.
+- A brief explanation of what the code does should suffice. 
+- Later we can add some info about installing and links to documentation, etc.
 
 *Take-away 7*: Initialize your repository with a license file and a `.gitignore` file.
 
