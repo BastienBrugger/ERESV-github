@@ -51,9 +51,4 @@ If you prefer to have more/complete control over the website, its really not tha
 
 ## Using Jekyll to create a template of your own
 
-Instead of repeating the same navigation markup on every page I create, which I'd have to edit on every page if I add, remove, or change the location of navigation item, I can create what Jekyll calls a layout that gets used on all my pages. For a detailed tutorial look at [Jonathan McGlone's excellent guide](http://jmcglone.com/guides/github-pages/) and the [associated repository](https://github.com/hankquinlan/hankquinlan.github.io)
-
-
-
-
-
+Instead of repeating the same navigation markup on every page I create, which I'd have to edit on every page if I add, remove, or change the location of navigation item, I can create what Jekyll calls a layout that gets used on all my pages. For a detailed tutorial look at [Jonathan McGlone's excellent guide](http://jmcglone.com/guides/github-pages/) and the [associated repository](https://github.com/hankquinlan/hankquinlan.github.io).
